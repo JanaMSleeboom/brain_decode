@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "nox test",
+      "setup": "sudo -H pip3 install pytest nox",
+      "run": "nox -s test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

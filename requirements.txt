@@ -1,0 +1,11 @@
+nox
+numpy
+jax[cpu]
+flax
+matplotlib
+mne==0.20.3
+resampy
+pandas
+h5py
+optax
+tqdm
